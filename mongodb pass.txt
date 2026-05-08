@@ -1,7 +1,0 @@
-
-bhuvankumar3c_db_user
-
-lbXoOfT2Gnc2gqKQ
-
-
-mongodb+srv://bhuvankumar3c_db_user:lbXoOfT2Gnc2gqKQ@cluster0.ht98avj.mongodb.net/?appName=Cluster0
